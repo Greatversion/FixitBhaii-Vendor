@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "568056217224",
+    "firebase_url": "https://fixitbhai-ecc47-default-rtdb.firebaseio.com",
+    "project_id": "fixitbhai-ecc47",
+    "storage_bucket": "fixitbhai-ecc47.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568056217224:android:2f50e9155626364e5be93d",
+        "android_client_info": {
+          "package_name": "com.example.fixitbhai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKWWFwvjxybHG2I2-fx7EPPLOjaHT8rtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568056217224:android:10f21987456f9a4b5be93d",
+        "android_client_info": {
+          "package_name": "com.example.fixitbhaiivendor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKWWFwvjxybHG2I2-fx7EPPLOjaHT8rtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
